@@ -1,0 +1,22 @@
+{
+  "name": "cube",
+  "version": "1.0.0",
+  "description": "分布式，可伸缩的多进程服务器框架",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howxin/cube.git"
+  },
+  "author": "howxin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/howxin/cube/issues"
+  },
+  "homepage": "https://github.com/howxin/cube#readme"
+}
